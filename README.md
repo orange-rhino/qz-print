@@ -1,3 +1,11 @@
+##DON'T USE THIS BRANCH
+
+###This is an archive of an unstable 2013 rewrite that was never used
+
+If interested in the new 2.0 branch, [go here](../../tree/2.0)
+
+---
+
 qz-print
 ========
 
